@@ -1,0 +1,20 @@
+body {
+  font-family: 'Titillium Web', sans-serif; /* Definicion de Tipos fuentes a usar */
+}
+
+.navbar-brand {
+  font-size: 20px;
+  color: #000;
+  font-weight: bold; /* Definicion de tamaño, color y efecto del Brand del Nav */
+}
+
+#testimonial {
+  background: #f1f1f1;  /* Definicion de fondo, padding, alineacion y tope margen del Testimonial */
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top: 40px;
+}
+
+footer {
+  background: url(../img/smartphones.png); /* Definicion de imagen de fondo en section Footer */
+}
